@@ -1,0 +1,20 @@
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\bin\Debug\1.0.1_Kullanici_Kayit.exe.config
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\bin\Debug\1.0.1_Kullanici_Kayit.exe
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\bin\Debug\1.0.1_Kullanici_Kayit.pdb
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\_1._0._1_Kullanici_Kayit.Form1.resources
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\_1._0._1_Kullanici_Kayit.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.exe
+C:\Users\ALPEREN\source\repos\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\bin\Debug\1.0.1_Kullanici_Kayit.exe.config
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\bin\Debug\1.0.1_Kullanici_Kayit.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\bin\Debug\1.0.1_Kullanici_Kayit.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\_1._0._1_Kullanici_Kayit.Form1.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\_1._0._1_Kullanici_Kayit.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.1_Kullanici_Kayit\1.0.1_Kullanici_Kayit\obj\Debug\1.0.1_Kullanici_Kayit.pdb

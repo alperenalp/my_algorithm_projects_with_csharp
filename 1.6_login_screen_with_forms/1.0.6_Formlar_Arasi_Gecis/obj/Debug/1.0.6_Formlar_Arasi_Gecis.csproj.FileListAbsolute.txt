@@ -1,0 +1,22 @@
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\bin\Debug\1.0.6_Formlar_Arasi_Gecis.exe.config
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\bin\Debug\1.0.6_Formlar_Arasi_Gecis.exe
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\bin\Debug\1.0.6_Formlar_Arasi_Gecis.pdb
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\_1._0._6_Formlar_Arasi_Gecis.Form1.resources
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\_1._0._6_Formlar_Arasi_Gecis.Form2.resources
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\_1._0._6_Formlar_Arasi_Gecis.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.exe
+C:\Users\ALPEREN\source\repos\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\bin\Debug\1.0.6_Formlar_Arasi_Gecis.exe.config
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\bin\Debug\1.0.6_Formlar_Arasi_Gecis.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\bin\Debug\1.0.6_Formlar_Arasi_Gecis.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\_1._0._6_Formlar_Arasi_Gecis.Form1.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\_1._0._6_Formlar_Arasi_Gecis.Form2.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\_1._0._6_Formlar_Arasi_Gecis.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.6_Formlar_Arasi_Gecis\1.0.6_Formlar_Arasi_Gecis\obj\Debug\1.0.6_Formlar_Arasi_Gecis.pdb

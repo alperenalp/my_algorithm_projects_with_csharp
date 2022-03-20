@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calisma_1.0.1_2.grup_1.ve_2.final_sorulari", "calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.csproj", "{B8842930-A53E-42EC-84A6-A6E0C02E132F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8842930-A53E-42EC-84A6-A6E0C02E132F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8842930-A53E-42EC-84A6-A6E0C02E132F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8842930-A53E-42EC-84A6-A6E0C02E132F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8842930-A53E-42EC-84A6-A6E0C02E132F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {517CF473-042B-4E60-9B10-E4EB1A537033}
+	EndGlobalSection
+EndGlobal

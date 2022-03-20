@@ -1,0 +1,9 @@
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\bin\Debug\1.0.2_Hesap_Makinesi.exe.config
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\bin\Debug\1.0.2_Hesap_Makinesi.exe
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\bin\Debug\1.0.2_Hesap_Makinesi.pdb
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\obj\Debug\1.0.2_Hesap_Makinesi.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\obj\Debug\_1._0._2_Hesap_Makinesi.Form1.resources
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\obj\Debug\_1._0._2_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\obj\Debug\1.0.2_Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\obj\Debug\1.0.2_Hesap_Makinesi.exe
+C:\Users\ALPEREN\source\repos\1.0.2_Hesap_Makinesi\1.0.2_Hesap_Makinesi\obj\Debug\1.0.2_Hesap_Makinesi.pdb

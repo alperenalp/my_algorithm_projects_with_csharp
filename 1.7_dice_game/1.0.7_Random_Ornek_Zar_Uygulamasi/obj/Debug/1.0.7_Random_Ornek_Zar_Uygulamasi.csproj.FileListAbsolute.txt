@@ -1,0 +1,20 @@
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\bin\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.exe.config
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\bin\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.exe
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\bin\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.pdb
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\_1._0._7_Random_Ornek_Zar_Uygulamasi.Form1.resources
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\_1._0._7_Random_Ornek_Zar_Uygulamasi.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.exe
+C:\Users\ALPEREN\source\repos\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\bin\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.exe.config
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\bin\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\bin\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\_1._0._7_Random_Ornek_Zar_Uygulamasi.Form1.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\_1._0._7_Random_Ornek_Zar_Uygulamasi.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.7_Random_Ornek_Zar_Uygulamasi\1.0.7_Random_Ornek_Zar_Uygulamasi\obj\Debug\1.0.7_Random_Ornek_Zar_Uygulamasi.pdb

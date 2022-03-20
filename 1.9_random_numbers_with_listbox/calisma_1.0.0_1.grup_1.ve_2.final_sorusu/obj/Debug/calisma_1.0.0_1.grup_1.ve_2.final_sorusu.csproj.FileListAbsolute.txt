@@ -1,0 +1,20 @@
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\bin\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.exe.config
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\bin\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.exe
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\bin\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.pdb
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1._0._0_1.grup_1.ve_2.final_sorusu.Form1.resources
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1._0._0_1.grup_1.ve_2.final_sorusu.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.exe
+C:\Users\ALPEREN\source\repos\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\bin\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.exe.config
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\bin\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.exe
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\bin\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1._0._0_1.grup_1.ve_2.final_sorusu.Form1.resources
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1._0._0_1.grup_1.ve_2.final_sorusu.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.exe
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu\obj\Debug\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.pdb

@@ -1,0 +1,9 @@
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\bin\Debug\1.0.4_Alan_Hesaplama.exe.config
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\bin\Debug\1.0.4_Alan_Hesaplama.exe
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\bin\Debug\1.0.4_Alan_Hesaplama.pdb
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\obj\Debug\1.0.4_Alan_Hesaplama.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\obj\Debug\_1._0._4_Alan_Hesaplama.Form1.resources
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\obj\Debug\_1._0._4_Alan_Hesaplama.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\obj\Debug\1.0.4_Alan_Hesaplama.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\obj\Debug\1.0.4_Alan_Hesaplama.exe
+C:\Users\ALPEREN\source\repos\1.0.4_Alan_Hesaplama\1.0.4_Alan_Hesaplama\obj\Debug\1.0.4_Alan_Hesaplama.pdb

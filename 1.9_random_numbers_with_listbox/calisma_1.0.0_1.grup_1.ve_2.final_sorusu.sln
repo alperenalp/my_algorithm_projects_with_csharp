@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calisma_1.0.0_1.grup_1.ve_2.final_sorusu", "calisma_1.0.0_1.grup_1.ve_2.final_sorusu\calisma_1.0.0_1.grup_1.ve_2.final_sorusu.csproj", "{9552D990-0996-4DED-A333-8EF2F61339BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9552D990-0996-4DED-A333-8EF2F61339BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9552D990-0996-4DED-A333-8EF2F61339BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9552D990-0996-4DED-A333-8EF2F61339BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9552D990-0996-4DED-A333-8EF2F61339BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC24A58A-B9BD-4C28-8640-6D9E367F0D5B}
+	EndGlobalSection
+EndGlobal

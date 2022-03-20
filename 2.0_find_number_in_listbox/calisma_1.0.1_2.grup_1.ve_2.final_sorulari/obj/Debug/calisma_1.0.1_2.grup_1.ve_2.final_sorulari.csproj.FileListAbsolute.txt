@@ -1,0 +1,20 @@
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\bin\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.exe.config
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\bin\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.exe
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\bin\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.pdb
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1._0._1_2.grup_1.ve_2.final_sorulari.Form1.resources
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1._0._1_2.grup_1.ve_2.final_sorulari.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.exe
+C:\Users\ALPEREN\source\repos\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\bin\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.exe.config
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\bin\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.exe
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\bin\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1._0._1_2.grup_1.ve_2.final_sorulari.Form1.resources
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1._0._1_2.grup_1.ve_2.final_sorulari.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.exe
+C:\Users\Alperen\Desktop\Algoritma 1\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\calisma_1.0.1_2.grup_1.ve_2.final_sorulari\obj\Debug\calisma_1.0.1_2.grup_1.ve_2.final_sorulari.pdb

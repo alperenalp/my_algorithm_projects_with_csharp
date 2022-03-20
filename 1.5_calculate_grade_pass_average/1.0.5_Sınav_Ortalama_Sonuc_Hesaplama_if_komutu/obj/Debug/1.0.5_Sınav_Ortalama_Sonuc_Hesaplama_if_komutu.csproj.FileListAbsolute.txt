@@ -1,0 +1,20 @@
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\bin\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.exe.config
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\bin\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.exe
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\bin\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.pdb
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.csprojAssemblyReference.cache
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\_1._0._5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.Form1.resources
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\_1._0._5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.Properties.Resources.resources
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.csproj.GenerateResource.cache
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.exe
+C:\Users\ALPEREN\source\repos\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\bin\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.exe.config
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\bin\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\bin\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.pdb
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\_1._0._5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.Form1.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\_1._0._5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.exe
+C:\Users\Alperen\Desktop\Algoritma 1\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu\obj\Debug\1.0.5_Sınav_Ortalama_Sonuc_Hesaplama_if_komutu.pdb
